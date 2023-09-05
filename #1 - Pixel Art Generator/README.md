@@ -1,1 +1,1 @@
-<img src="/#1 - Pixel Art Generator/print.jpeg">
+![Logo do Markdown](print.jpeg)
